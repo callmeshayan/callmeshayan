@@ -17,8 +17,7 @@
     <section>
         <h2>Skills</h2>
         <ul>
-            <li>Programming Languages: <span>C++, C#, Python</span></li>
-           
+            <li>Programming Languages: <span>C++, C#, Python</span></li>  
         </ul>
     </section>
 
