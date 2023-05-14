@@ -1,25 +1,63 @@
-<h1 align="center">Hi 👋, I'm Shayan</h1>
-<h3 align="center">A passionate Computer Science student from Iran based in Cyprus</h3>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=callmeshayan" alt="callmeshayan" /></a> </p>
-
-- 🌱 I’m currently learning **Cybersecurity, Data Sturcture**
-
-- 🤝 I’m looking for help with **C++ projects**
-
-- 📫 How to reach me **nshayan81@hotmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/shayan-naghashpourshoushtari-61a0789a/](https://www.linkedin.com/in/shayan-naghashpourshoushtari-61a0789a/)
-
-- ⚡ Fun fact **I like to work with hardwares**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=callmeshayan&show_icons=true&locale=en&layout=compact" alt="callmeshayan" /></p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>GitHub Profile</title>
+</head>
+<body>
+    <header>
+        <h1>Hello, I'm <span>Your Name</span>!</h1>
+    </header>
+    <section>
+        <h2>About Me</h2>
+        <p>I'm a passionate <span>Your Profession/Interests</span> based in <span>Your Location</span>. I love <span>What you love or what motivates you</span>.</p>
+    </section>
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>Programming Languages: <span>Languages</span></li>
+            <li>Frameworks/Libraries: <span>Frameworks/Libraries</span></li>
+            <li>Tools/Technologies: <span>Tools/Technologies</span></li>
+            <li>Other Skills: <span>Other Skills</span></li>
+        </ul>
+    </section>
+    <section>
+        <h2>Projects</h2>
+        <ul>
+            <li><strong>Project 1:</strong> Brief description or tagline</li>
+            <li><strong>Project 2:</strong> Brief description or tagline</li>
+            <li><strong>Project 3:</strong> Brief description or tagline</li>
+        </ul>
+        <p>For more details and a complete list of my projects, please visit <a href="https://yourportfolio.com">My Portfolio/Blog/Website</a>.</p>
+    </section>
+    <section>
+        <h2>Open Source Contributions</h2>
+        <ul>
+            <li><strong>Contribution 1:</strong> Description of your contribution</li>
+            <li><strong>Contribution 2:</strong> Description of your contribution</li>
+            <li><strong>Contribution 3:</strong> Description of your contribution</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Blog Posts/Articles</h2>
+        <ul>
+            <li><strong>Title of Blog Post/Article:</strong> Brief description or summary</li>
+            <li><strong>Title of Blog Post/Article:</strong> Brief description or summary</li>
+            <li><strong>Title of Blog Post/Article:</strong> Brief description or summary</li>
+        </ul>
+        <p>You can find more of my writings on <a href="https://yourblog.com">My Blog</a>.</p>
+    </section>
+    <footer>
+        <h2>Connect with Me</h2>
+        <ul>
+            <li><a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a></li>
+            <li><a href="https://twitter.com/yourusername">Twitter</a></li>
+            <li><a href="https://yourwebsite.com">Personal Website</a></li>
+        </ul>
+        <p>Feel free to reach out to me via email at <a href="mailto:your@email.com">your@email.com</a>.</p>
+    </footer>
+</body>
+</html>
 
