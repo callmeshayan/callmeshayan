@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shayan</h1>
 <h3 align="center">A passionate Computer Science student from Iran based in Cyprus</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-18657810">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=callmeshayan" alt="callmeshayan" /></a> </p>
 
