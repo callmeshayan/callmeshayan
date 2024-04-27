@@ -3,11 +3,11 @@ GitHub Profile README Generator
 Star this repo15706
 Fork on GitHub4333
 <h1 align="center">Hi 👋, I'm Shayan</h1>
-<h3 align="center">A passionate Computer Science student from Iran based in Cyprus</h3>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=callmeshayan" alt="callmeshayan" /></a> </p>
 
-- 🌱 I’m currently learning **Cybersecurity, Data Sturcture**
+- 🌱 I’m currently learning
 
 - 🤝 I’m looking for help with **C++ projects**
 
